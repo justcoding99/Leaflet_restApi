@@ -1,0 +1,3 @@
+
+${application.title} ${application.version}
+Powered by Meltem Spring Boot ${spring-boot.version}
